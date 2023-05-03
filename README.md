@@ -2,6 +2,8 @@
 
 
 Problem Statement - II
+
+
 Question 1
 
 What is the optimal value of alpha for ridge and lasso regression? What will be the changes in the model if you choose double the value of alpha for both ridge and lasso? What will be the most important predictor variables after the change is implemented?
